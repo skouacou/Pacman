@@ -1,0 +1,16 @@
+current directory: C:/Users/emachnic/GitRepos/railsinstaller-windows/stage/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/websocket-driver-0.6.4/ext/websocket-driver
+C:/Users/emachnic/GitRepos/railsinstaller-windows/stage/Ruby2.3.0/bin/ruby.exe -r ./siteconf20161230-2508-muhyzo.rb extconf.rb
+creating Makefile
+
+current directory: C:/Users/emachnic/GitRepos/railsinstaller-windows/stage/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/websocket-driver-0.6.4/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: C:/Users/emachnic/GitRepos/railsinstaller-windows/stage/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/websocket-driver-0.6.4/ext/websocket-driver
+make "DESTDIR="
+generating websocket_mask-i386-mingw32.def
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: C:/Users/emachnic/GitRepos/railsinstaller-windows/stage/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/websocket-driver-0.6.4/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20161230-2508-1p5c90x
